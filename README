@@ -1,8 +1,0 @@
-### Description of the project
-this project is a demo of how puppeteer can be used to generate pdfs from html files
-### How to run the project
-- clone the project
-- run `npm install`
-- Put your html into page.html
-- run `node server.js`
-- check the generated pdf in the root folder
